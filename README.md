@@ -15,12 +15,19 @@ based on minimum and maximum temperature limits for a specified runtime.
 
 ## Sample Output
 Enter minimum temperature limit: 20
+
 Enter maximum temperature limit: 30
+
 Enter total runtime (in seconds): 10
+
 Current Temperature: 50°C → ABOVE maximum limit
+
 Current Temperature: 18°C →  BELOW minimum limit
+
 Current Temperature: 28°C → NORMAL
+
 Current Temperature: 30°C → NORMAL
+
 Current Temperature: 7°C →  BELOW minimum limit
 
  Monitoring stopped. Runtime completed.
