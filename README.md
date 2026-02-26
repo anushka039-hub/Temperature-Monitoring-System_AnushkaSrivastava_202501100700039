@@ -1,5 +1,4 @@
 # Temperature-Monitoring-System_AnushkaSrivastava_202501100700039
-# Temperature Monitoring System (With Runtime)
 
 ## Problem Statement
 To design a Python program that simulates an IoT temperature monitoring system.
@@ -13,10 +12,6 @@ based on minimum and maximum temperature limits for a specified runtime.
 - Temperature is compared with limits to display alerts
 - Program stops automatically after runtime completion
 
-## Technologies Used
-- Python
-- random module
-- time module
 
 ## Sample Output
 Enter minimum temperature limit: 20  
