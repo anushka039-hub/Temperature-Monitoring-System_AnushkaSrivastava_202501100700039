@@ -6,8 +6,6 @@ min_temp = int(input("Enter minimum temperature limit: "))
 max_temp = int(input("Enter maximum temperature limit: "))
 runtime = int(input("Enter total runtime (in seconds): "))
 
-print("\nTemperature Monitoring System Started...\n")
-
 start_time = time.time()
 
 while True:
@@ -31,3 +29,4 @@ while True:
         print("NORMAL")
 
     time.sleep(2)
+
